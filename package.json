@@ -1,8 +1,8 @@
 {
-  "name": "@osome/osome-registered-address",
-  "version": "1.0.1",
-  "description": "Osome registered address",
-  "homepage": "https://github.com/OsomePteLtd/osome-address",
+  "name": "@osome/legal-address",
+  "version": "1.0.0",
+  "description": "Osome legal address",
+  "homepage": "https://github.com/OsomePteLtd/legal-address",
   "author": "Osome team",
   "files": [
     "src"
@@ -11,6 +11,7 @@
   "keywords": [
     "osome",
     "awesome",
+    "legal",
     "registered",
     "address"
   ],
@@ -41,7 +42,7 @@
     "test": "jest --coverage",
     "tdd": "npm test -- --watch"
   },
-  "repository": "git@github.com:OsomePteLtd/osome-registered-address.git",
+  "repository": "git@github.com:OsomePteLtd/legal-address.git",
   "jest": {
     "testEnvironment": "node",
     "coverageReporters": [
