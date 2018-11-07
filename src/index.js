@@ -1,5 +1,5 @@
 const houseNumber = '68'
-const streetName = 'CIRCULAR ROAD'
+const streetName = 'Circular Road'
 const floor = '02'
 const apartment = '01'
 const country = 'Singapore'
